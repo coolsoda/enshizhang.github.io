@@ -100,11 +100,13 @@
 //   }
 // }
 
-.author__avatar img {
+.sidebar .author__avatar img {
     width: 150px; /* Set your desired width */
-    height: 160px; /* Set the height to make it a square */
+    height: 160px; /* Keep aspect ratio, or set specific height like 160px */
     border-radius: 0; /* Removes the rounded corners */
+    object-fit: cover; /* Ensures the image covers the entire area, without stretching */
 }
+
 
 .author__content {
   display: table-cell;
