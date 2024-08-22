@@ -11,7 +11,7 @@ I am a fourth-year PhD candidate at Florida International University, advised by
 
 Education
 ======
-2018.8 M.S., Busienss Administration, La Salle University, Philadelphia, USA.
+2018.8 M.S., Business Administration, La Salle University, Pennsylvania, USA.
 
 2017.5 B.A., Mathematics, University of Kansas, Kansas, USA.
 
