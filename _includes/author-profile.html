@@ -4,12 +4,14 @@
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
 
-<img src="/images/profile.png" class="author__avatar" alt="{{ author.name }}">
-
 <div itemscope itemtype="http://schema.org/Person">
 
   <div class="author__avatar">
-    <img src="/images/profile.png" class="author__avatar" alt="{{ author.name }}">
+    {% if author.avatar contains "://" %}
+    	<img src="{{ /images/profile.png }}" alt="{{ author.name }}">
+    {% else %}
+    	<img src="{{ /images/profile.png | prepend: "/images/" | prepend: base_path }}" class="author__avatar" alt="{{ author.name }}">
+    {% endif %}
   </div>
 
   <div class="author__content">
@@ -17,8 +19,6 @@
     {% if author.pronouns %}<p class="author__pronouns">{{ author.pronouns }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
-</div>
-
 
   <div class="author__urls-wrapper">
     <button class="btn btn--inverse">Follow</button>
