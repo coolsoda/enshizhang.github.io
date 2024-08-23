@@ -6,11 +6,40 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Bio
 
-Hi! I am a fourth-year Ph.D. candidate at Florida International University, advised by Professor [Christian Poellabauer](https://users.cs.fiu.edu/~cpoellab/). My research interests include machine learning, speech analysis, and language processing. My research goal is to better assist with detecting and treating various disorders and diseases in humans by using data sources from speech, language, and other modalities.
+Enshi Zhang a fourth-year Ph.D. candidate at Florida International University, advised by Professor [Christian Poellabauer](https://users.cs.fiu.edu/~cpoellab/). His research interests include machine learning, natural language processing, and speech processing. He is currently focused on developing frameworks to improve the detection and treatment of mental illness by leveraging multimodal data, such as speech, text, and other sources.
 
-Education
-======
-2018.8 M.S., Business Administration, La Salle University, Pennsylvania, USA.
+Before joining FIU in the fall of 2021, he received his B.S. degree in Mathematics from the University of Kansas (Kansas, USA) in 2017 and his M.S. degree in Business Administration from La Salle University (Pennsylvania, USA) in 2018. He also worked as a financial analyst in companies such as Robert Half and Vanguard.
 
-2017.5 B.A., Mathematics, University of Kansas, Kansas, USA.
+
+# Publications
+
+- **The MERSA Dataset and a Transformer-Based Approach for Speech Emotion Recognition**<br/>
+    <u>Enshi Zhang</u>, Rafael Trujillo, Christian Poellabauer<br/>
+    *Annual Meeting of the Association for Computational Linguistics (ACL) 2024*<br/>
+    [ [paper](https://aclanthology.org/2024.acl-long.752/) ]
+
+- **Predicting long-term sleep deprivation using wearable sensors and health surveys**<br/>
+    Rafael Trujillo, <u>Enshi Zhang</u>, John Michael Templeton, Christian Poellabauer<br/>
+    *Computers in Biology and Medicine, September 2024*<br/>
+    [ [paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482524008345) ]
+
+- **A study on mobile crowd sensing systems for healthcare scenarios**<br/>
+    <u>Enshi Zhang</u>, Rafael Trujillo, John Michael Templeton, Christian Poellabauer<br/>
+    *IEEE Access, December 2023*<br/>
+    [ [paper](https://ieeexplore.ieee.org/abstract/document/10356055) ]
+
+# Teaching
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of Discrete Mathematics (COT3100)</a></span> <span style="flex:  0 0 auto"><i>FIU, Spring 2024</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of Data Structure (COP3337)</a></span> <span style="flex:  0 0 auto"><i>FIU, Spring 2022</i></span></p>
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Instructor of Physics</a></span> <span style="flex:  0 0 auto"><i>Kennedy Elementary School, Fall 2013</i></span></p>
+
+# Honors
+
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Best Presentation Award</span> <span style="flex:  0 0 auto"><i>AUT Workshop on Speech Analysis for Neurodegenerative Diseases and Brain Injuries 2024</i></span></p>
+
+# Hobbies
+
+Basketball, piano, mathematics.
