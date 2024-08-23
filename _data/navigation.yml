@@ -7,13 +7,12 @@
 main:
   - title: "Publications"
     url: /publications/
- 
+
   - title: "Teaching"
-    url: /teaching/    
-        
+    url: /teaching/
+
   - title: "Awards"
-    url: /year-archive/
+    url: /awards/
 
   - title: "Hobbies"
     url: /year-archive/
-  
