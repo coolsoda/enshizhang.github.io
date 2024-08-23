@@ -53,23 +53,6 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Awards
-======
-  <ul>{% for post in site.awards reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Hobbies
-======
-  <ul>{% for post in site.hobbies reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 Service and leadership
 ======
