@@ -39,12 +39,11 @@ Before joining FIU in the fall of 2021, he received his B.S. degree in Mathemati
 
 # Honors
 
-- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;">
-  <span style="flex: 0 1 auto; margin-right: 10px;">Best Presentation Award</span> 
-  <span style="flex: 1 0 auto; text-align: right;">
+- <p style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 0.5em;">
+  <span style="flex: 0 0 auto; margin-right: 10px;">Best Presentation Award</span> 
+  <span style="flex: 1 0 auto; text-align: left;">
     <i>AUT Workshop on Speech Analysis for Neurodegenerative Diseases and Brain Injuries 2024</i>
   </span>
-</p>
 
 
 # Hobbies
