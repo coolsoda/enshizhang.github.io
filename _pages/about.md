@@ -42,13 +42,13 @@ Before joining FIU in the fall of 2021, he received his B.S. degree in Mathemati
 - <p style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 0.5em;">
   <span style="flex: 0 0 auto; margin-right: 10px;">Best Presentation Award</span> 
   <span style="flex: 1 0 auto; text-align: left;">
-    <i>AUT Workshop on Speech Analysis for Neurodegenerative Diseases and Brain Injuries 2024</i>
+    <i><a href="https://ibtec.aut.ac.nz/events/speech-analysis-for-neurodegenerative-diseases-and-brain-injuries">Workshop on Speech Analysis for Neurodegenerative Diseases and Brain Injuries 2024</a></i>
   </span>
   
 - <p style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 0.5em;">
   <span style="flex: 0 0 auto; margin-right: 10px;">Speech Emotion Challenge Winner</span> 
   <span style="flex: 1 0 auto; text-align: left;">
-    <i>IEEE SLT 2024 Challenge: LLM-Based Post ASR Speech Emotion Challenge (Task 3 of the GenSEC-LLM Challenge)</i>
+    <i><a href="https://github.com/YuanGongND/llm_speech_emotion_challenge?tab=readme-ov-file">Workshop on Speech Analysis for Neurodegenerative Diseases and Brain Injuries 2024</a>IEEE SLT 2024 Challenge: LLM-Based Post ASR Speech Emotion Challenge (Task 3 of the GenSEC-LLM Challenge)</a></i>
   </span>
 
 
