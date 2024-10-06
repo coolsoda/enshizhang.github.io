@@ -45,7 +45,13 @@ Before joining FIU in the fall of 2021, he received his B.S. degree in Mathemati
     <i>AUT Workshop on Speech Analysis for Neurodegenerative Diseases and Brain Injuries 2024</i>
   </span>
 
-# Other Research Activities
+  - <p style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 0.5em;">
+  <span style="flex: 0 0 auto; margin-right: 10px;">Speech emotion challenge winner</span> 
+  <span style="flex: 1 0 auto; text-align: left;">
+    <i>IEEE SLT 2024 Challenge: LLM-Based Post ASR Speech Emotion Challenge (Task3 of the GenSEC-LLM Challenge)</i>
+  </span>
+
+# Service
 
 - Reviewer for journals  
   - IEEE IoT  
