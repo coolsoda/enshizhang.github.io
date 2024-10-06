@@ -19,7 +19,7 @@ Before joining FIU in the fall of 2021, he received his B.S. degree in Mathemati
 - **The MERSA Dataset and a Transformer-Based Approach for Speech Emotion Recognition**<br/>
     <u>Enshi Zhang</u>, Rafael Trujillo, Christian Poellabauer<br/>
     *Annual Meeting of the Association for Computational Linguistics (ACL) 2024*<br/>
-    [ [paper](https://aclanthology.org/2024.acl-long.752/) ]
+    [ [paper](https://aclanthology.org/2024.acl-long.752/)[code](https://github.com/FIU-MOSAIC/MERSA_SER) ]
 
 - **Predicting long-term sleep deprivation using wearable sensors and health surveys**<br/>
     Rafael Trujillo, <u>Enshi Zhang</u>, John Michael Templeton, Christian Poellabauer<br/>
