@@ -14,8 +14,16 @@ Enshi Zhang a fourth-year Ph.D. candidate at [Florida International University](
 Before joining FIU in the fall of 2021, he received his B.S. degree in Mathematics from the University of Kansas in 2017 and his M.S. degree in Business Administration from La Salle University (Pennsylvania) in 2018. He also worked as a financial analyst in companies such as Robert Half and Vanguard.
 
 
-# Publications
+# Selected publications
 
+- **Participant Engagement and Data Quality: Lessons Learned from a Mental Wellness Crowdsensing Study**<br/>
+    <u>Enshi Zhang</u>, Rafael Trujillo, Christian Poellabauer<br/>
+    *ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW) 2025*<br/>
+
+- **Contextual Speech Emotion Recognition with Large Language Models and ASR-Based Transcriptions**<br/>
+    <u>Enshi Zhang</u>, Christian Poellabauer<br/>
+    *Annual Conference on Neural Information Processing Systems (NeurIPS) 2024 Workshop on Audio Imagination*<br/>
+  
 - **The MERSA Dataset and a Transformer-Based Approach for Speech Emotion Recognition**<br/>
     <u>Enshi Zhang</u>, Rafael Trujillo, Christian Poellabauer<br/>
     *Annual Meeting of the Association for Computational Linguistics (ACL) 2024*<br/>
