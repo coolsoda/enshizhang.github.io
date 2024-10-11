@@ -90,7 +90,7 @@
 
   img {
     max-width: 175px;
-    border-radius: 50%;
+    border-radius: 0; /* Change from 50% to 0 for a rectangle */
 
     @include breakpoint($large) {
       padding: 5px;
@@ -98,6 +98,7 @@
     }
   }
 }
+
 
 .author__content {
   display: table-cell;
