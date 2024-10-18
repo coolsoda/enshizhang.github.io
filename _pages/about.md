@@ -13,9 +13,9 @@ Enshi Zhang a fourth-year Ph.D. candidate at [Florida International University](
 
 Before joining FIU in the fall of 2021, he received his B.S. degree in Mathematics from the University of Kansas in 2017 and his M.S. degree in Business Administration from La Salle University (Pennsylvania) in 2018. He also worked as a financial analyst in companies such as Robert Half and Vanguard.
 
+# Publications
 
-# Selected publications
-
+## 2024
 - **Participant Engagement and Data Quality: Lessons Learned from a Mental Wellness Crowdsensing Study**<br/>
     <u>Enshi Zhang</u>, Rafael Trujillo, Christian Poellabauer<br/>
     *ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW) 2025*<br/>
@@ -31,12 +31,13 @@ Before joining FIU in the fall of 2021, he received his B.S. degree in Mathemati
 
 - **Predicting long-term sleep deprivation using wearable sensors and health surveys**<br/>
     Rafael Trujillo, <u>Enshi Zhang</u>, John Michael Templeton, Christian Poellabauer<br/>
-    *Computers in Biology and Medicine, September 2024*<br/>
+    *Computers in Biology and Medicine*<br/>
     [ [paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482524008345) ]
 
+## 2023
 - **A study on mobile crowd sensing systems for healthcare scenarios**<br/>
     <u>Enshi Zhang</u>, Rafael Trujillo, John Michael Templeton, Christian Poellabauer<br/>
-    *IEEE Access, December 2023*<br/>
+    *IEEE Access*<br/>
     [ [paper](https://ieeexplore.ieee.org/abstract/document/10356055) ]
 
 # Teaching
@@ -68,7 +69,8 @@ Before joining FIU in the fall of 2021, he received his B.S. degree in Mathemati
 
 - Reviewer for conferences  
   - ACM-BCB 2024  
-  - ISMAR 2024  
+  - ISMAR 2024
+  - ICIS 2024  
   - ICWSM 2024  
   - ICWSM 2025  
   - CHI 2025  
