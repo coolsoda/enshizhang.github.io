@@ -11,7 +11,7 @@ redirect_from:
 
 Enshi Zhang a fourth-year Ph.D. candidate at [Florida International University](https://www.fiu.edu/), advised by Professor [Christian Poellabauer](https://users.cs.fiu.edu/~cpoellab/). His research interests include machine learning, natural language processing, and speech processing. He is currently focused on developing models to improve the detection and treatment of mental illness by using multimodal data, such as speech, text, and other data sources.
 
-Before joining FIU in the fall of 2021, he received his B.S. degree in Mathematics from the University of Kansas in 2017 and his M.S. degree in Business Administration from La Salle University (Pennsylvania) in 2018. He also worked as a financial analyst in companies such as Robert Half and Vanguard.
+Before joining FIU in the fall of 2021, he received his B.S. degree in Mathematics from the University of Kansas in 2017 and his M.S. degree in Business Administration from La Salle University (Pennsylvania) in 2018.
 
 # Publications
 
