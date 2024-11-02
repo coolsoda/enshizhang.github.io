@@ -23,6 +23,11 @@ Before joining FIU in the fall of 2021, he received his B.S. degree in Mathemati
 - **Contextual Speech Emotion Recognition with Large Language Models and ASR-Based Transcriptions**<br/>
     <u>Enshi Zhang</u>, Christian Poellabauer<br/>
     *Annual Conference on Neural Information Processing Systems (NeurIPS) 2024 Workshop on Audio Imagination*<br/>
+
+- **Improving Speech-based Emotion Recognition with Contextual Utterance Analysis and LLMs**<br/>
+    <u>Enshi Zhang</u>, Christian Poellabauer<br/>
+    *IEEE SLT 2024 (<span style="color:red">Speech Emotion Recognition Challenge Winner)*<br/>
+    [ [paper](https://arxiv.org/abs/2410.20334) | [code](https://github.com/coolsoda/SLT2024_SER) ]
   
 - **The MERSA Dataset and a Transformer-Based Approach for Speech Emotion Recognition**<br/>
     <u>Enshi Zhang</u>, Rafael Trujillo, Christian Poellabauer<br/>
