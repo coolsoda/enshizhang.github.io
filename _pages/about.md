@@ -15,7 +15,7 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 # Publications
 
 ## 2024
-- **Participant Engagement and Data Quality: Lessons Learned from a Mental Wellness Crowdsensing Study**<br/>
+- <span style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">HCI</span>**Participant Engagement and Data Quality: Lessons Learned from a Mental Wellness Crowdsensing Study**<br/>
     <u>Enshi Zhang</u>, Rafael Trujillo, Christian Poellabauer<br/>
     *ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW) 2025*<br/>
 
@@ -25,7 +25,7 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 
 - **Improving Speech-based Emotion Recognition with Contextual Utterance Analysis and LLMs**<br/>
     <u>Enshi Zhang</u>, Christian Poellabauer<br/>
-    *IEEE SLT 2024* (<span style="color:red">Speech Emotion Recognition Challenge Winner</span>)<br/>
+    *IEEE SLT 2024* (<small style="color:red;">Speech Emotion Recognition Challenge Winner</small>)<br/>
     [ [paper](https://arxiv.org/abs/2410.20334) | [code](https://github.com/coolsoda/SLT2024_SER) ]
   
 - **The MERSA Dataset and a Transformer-Based Approach for Speech Emotion Recognition**<br/>
