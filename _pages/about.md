@@ -15,31 +15,31 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 # Publications
 
 ## 2024
-- <span style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">HCI</span>**Participant Engagement and Data Quality: Lessons Learned from a Mental Wellness Crowdsensing Study**<br/>
+- <span style="background-color: #2ca02c; color: white; padding: 2px 6px; border-radius: 3px;">hci</span> **Participant Engagement and Data Quality: Lessons Learned from a Mental Wellness Crowdsensing Study**<br/>
     <u>Enshi Zhang</u>, Rafael Trujillo, Christian Poellabauer<br/>
     *ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW) 2025*<br/>
 
-- **Contextual Speech Emotion Recognition with Large Language Models and ASR-Based Transcriptions**<br/>
+- <span class="label" style="background-color: #1f77b4;">audio</span> <span class="label" style="background-color: #ff7f0e;">nlp</span>**Contextual Speech Emotion Recognition with Large Language Models and ASR-Based Transcriptions**<br/>
     <u>Enshi Zhang</u>, Christian Poellabauer<br/>
     *Annual Conference on Neural Information Processing Systems (NeurIPS) 2024 Workshop on Audio Imagination*<br/>
 
-- **Improving Speech-based Emotion Recognition with Contextual Utterance Analysis and LLMs**<br/>
+- <span class="label" style="background-color: #1f77b4;">audio</span> <span class="label" style="background-color: #ff7f0e;">nlp</span>**Improving Speech-based Emotion Recognition with Contextual Utterance Analysis and LLMs**<br/>
     <u>Enshi Zhang</u>, Christian Poellabauer<br/>
     *IEEE SLT 2024* (<small style="color:red;">Speech Emotion Recognition Challenge Winner</small>)<br/>
     [ [paper](https://arxiv.org/abs/2410.20334) | [code](https://github.com/coolsoda/SLT2024_SER) ]
   
-- **The MERSA Dataset and a Transformer-Based Approach for Speech Emotion Recognition**<br/>
+- <span class="label" style="background-color: #1f77b4;">audio</span> <span class="label" style="background-color: #ff7f0e;">nlp</span>**The MERSA Dataset and a Transformer-Based Approach for Speech Emotion Recognition**<br/>
     <u>Enshi Zhang</u>, Rafael Trujillo, Christian Poellabauer<br/>
     *Annual Meeting of the Association for Computational Linguistics (ACL) 2024*<br/>
     [ [paper](https://aclanthology.org/2024.acl-long.752/) | [code](https://github.com/FIU-MOSAIC/MERSA_SER) ]
 
-- **Predicting long-term sleep deprivation using wearable sensors and health surveys**<br/>
+- <span style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">health</span>**Predicting long-term sleep deprivation using wearable sensors and health surveys**<br/>
     Rafael Trujillo, <u>Enshi Zhang</u>, John Michael Templeton, Christian Poellabauer<br/>
     *Computers in Biology and Medicine*<br/>
     [ [paper](https://www.sciencedirect.com/science/article/abs/pii/S0010482524008345) ]
 
 ## 2023
-- **A study on mobile crowd sensing systems for healthcare scenarios**<br/>
+- <span class="label" style="background-color: #1f77b4;">health</span> <span class="label" style="background-color: #8c564b;">review</span>**A study on mobile crowd sensing systems for healthcare scenarios**<br/>
     <u>Enshi Zhang</u>, Rafael Trujillo, John Michael Templeton, Christian Poellabauer<br/>
     *IEEE Access*<br/>
     [ [paper](https://ieeexplore.ieee.org/abstract/document/10356055) ]
