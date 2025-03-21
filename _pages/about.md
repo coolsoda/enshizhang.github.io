@@ -15,7 +15,7 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 # Publications
 
 ## 2024
-- <span style="background-color: #ff7f0e; color: white; padding: 2px 6px; border-radius: 3px;">hci</span> **Participant Engagement and Data Quality: Lessons Learned from a Mental Wellness Crowdsensing Study**<br/>
+- <span class="label" style="background-color: #2ca02c; color: white; padding: 2px 6px; border-radius: 3px;">health</span> <span class="label" style="background-color: #ff7f0e; color: white; padding: 2px 6px; border-radius: 3px;">hci</span> **Participant Engagement and Data Quality: Lessons Learned from a Mental Wellness Crowdsensing Study**<br/>
     <u>Enshi Zhang</u>, Rafael Trujillo, Christian Poellabauer<br/>
     *ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW) 2025*<br/>
 
