@@ -7,6 +7,7 @@
 main:
   # - title: "Publications"
   #   url: /publications/
+<<<<<<< HEAD
   #
   # - title: "Teaching"
   #   url: /teaching/
@@ -16,3 +17,23 @@ main:
   #
   # - title: "Hobbies"
   #   url: /hobbies
+=======
+
+  # - title: "Talks"
+  #   url: /talks/    
+
+  # - title: "Teaching"
+  #   url: /teaching/    
+    
+  # - title: "Portfolio"
+  #   url: /portfolio/
+        
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+    
+  # - title: "CV"
+  #   url: /cv/
+    
+  # - title: "Guide"
+  #   url: /markdown/
+>>>>>>> 7d4139da4c5ab9eecf8ae7be1fce21dd3454d1bf
