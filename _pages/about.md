@@ -8,20 +8,30 @@ redirect_from:
   - /about.html
 ---
 # Bio
-I am a fourth-year Ph.D. candidate at [Florida International University](https://www.fiu.edu/), where I am advised by  Professor [Christian Poellabauer](https://users.cs.fiu.edu/~cpoellab/). My research interests include machine learning, natural language processing, and speech processing, particularly in how these fields can be applied to healthcare applications.
+I am a final-year Ph.D. candidate at [Florida International University](https://www.fiu.edu/), where I am advised by  Professor [Christian Poellabauer](https://users.cs.fiu.edu/~cpoellab/). My research interests include machine learning, natural language processing, and speech processing, particularly in how these fields can be applied to healthcare applications.
 
 Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics from the University of Kansas in 2017 and my M.S. degree in Business Administration from La Salle University in Pennsylvania in 2018. Following my studies, I worked as a financial analyst for various companies until 2021.
 
 # Publications
-
+## 2025
+- <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">audio</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **Mitigating Interviewer Bias in Multimodal Depression Detection: An Approach with Adversarial Learning and Contextual Positional Encoding**<br/>
+    <u>Enshi Zhang</u>, Christian Poellabauer<br/>
+    *Empirical Methods in Natural Language Processing (EMNLP) 2025*<br/>
+    
+- <span style="background-color: #2ca02c; color: white; padding: 2px 6px; border-radius: 3px;">health</span> **MADSurv: An Uncertainty-Aware Framework for Multimodal Cancer Survival Analysis**<br/>
+    <u>Enshi Zhang</u>, Varun Sai Raigir, Christian Poellabauer, Adrian Kohut, John Michael Templeton, Ananda Mondal, Lexi Weintraub<br/>
+    *ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2025*<br/>
+    
 ## 2024
 - <span class="label" style="background-color: #2ca02c; color: white; padding: 2px 6px; border-radius: 3px;">health</span> <span class="label" style="background-color: #ff7f0e; color: white; padding: 2px 6px; border-radius: 3px;">hci</span> **Participant Engagement and Data Quality: Lessons Learned from a Mental Wellness Crowdsensing Study**<br/>
     <u>Enshi Zhang</u>, Rafael Trujillo, Christian Poellabauer<br/>
     *ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing (CSCW) 2025*<br/>
+    [ [paper](https://dl.acm.org/doi/abs/10.1145/3711043?casa_token=isWgwLkC2LkAAAAA:7EnGgMHdHMl1tOV4jeh7u00Qb2AegNKO2SZNaWyLz00SaCC_VevsDhlxA8OsSWP55GgMsYDpvdM7) ]
 
 - <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">audio</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **Contextual Speech Emotion Recognition with Large Language Models and ASR-Based Transcriptions**<br/>
     <u>Enshi Zhang</u>, Christian Poellabauer<br/>
     *Annual Conference on Neural Information Processing Systems (NeurIPS) 2024 Workshop on Audio Imagination*<br/>
+    [ [paper](https://openreview.net/forum?id=lyNDmWJhly) | [code](https://github.com/coolsoda/SER_nips) ]
 
 - <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">audio</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **Improving Speech-based Emotion Recognition with Contextual Utterance Analysis and LLMs**<br/>
     <u>Enshi Zhang</u>, Christian Poellabauer<br/>
@@ -67,19 +77,8 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 
 # Service
 
-- Reviewer for journals  
-  - IEEE IoT  
-  - IEEE Sensors
-
-- Reviewer for conferences  
-  - ACM-BCB 2024  
-  - ISMAR 2024
-  - ICIS 2024  
-  - ICWSM 2024  
-  - ICWSM 2025  
-  - CHI 2025  
-  - ICASSP 2025  
-  - ICLR 2025
+- Reviewer for journals: IEEE IoT, IEEE Sensors, ACM Computing Surveys
+- Reviewer for conferences: ACM-BCB, ISMAR, ICIS, ICWSM, CHI, ICASSP, ACM MM, ICLR
 
 
 # Hobbies
