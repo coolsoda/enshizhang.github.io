@@ -82,7 +82,6 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 - Reviewer for journals: IEEE IoT, IEEE Sensors, ACM Computing Surveys
 - Reviewer for conferences: ACM-BCB, ISMAR, ICIS, ICWSM, CHI, ICASSP, ACM MM, ICLR
 
->>>>>>> 7d4139da4c5ab9eecf8ae7be1fce21dd3454d1bf
 
 # Hobbies
 
