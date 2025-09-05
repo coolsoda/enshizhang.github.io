@@ -46,7 +46,26 @@
 //     border-radius: 0; /* Removes the rounded corners */
 // }
 
-h2.archive__item-title {
-    font-weight: normal; /* Change from bold to normal text */
+//h2.archive__item-title {
+//    font-weight: normal; /* Change from bold to normal text */
+//}
+/* --- Avatar: rectangle instead of circle --- */
+.author__avatar,
+.author__avatar img {
+  border-radius: 0 !important;   /* remove circle */
+  height: auto;                  /* keep natural aspect ratio */
+  /* Optional size: uncomment if you want a fixed width
+  width: 160px;
+  */
 }
+
+/* --- Home page: disable sticky sidebar so it scrolls away --- */
+/* Minimal Mistakes adds 'sticky' behavior to the sidebar. Scope to home only. */
+.layout--home .sidebar.sticky,
+.layout--home .sidebar,
+.layout--home .page__sidebar {
+  position: static !important;
+  top: auto !important;
+}
+
 
