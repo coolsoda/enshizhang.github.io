@@ -54,11 +54,11 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 ## 2025
 - <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">audio</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **Mitigating Interviewer Bias in Multimodal Depression Detection: An Approach with Adversarial Learning and Contextual Positional Encoding**<br/>
     <u>Enshi Zhang</u>, Christian Poellabauer<br/>
-    *Empirical Methods in Natural Language Processing (EMNLP) 2025*<br/>
+    *Proceedings of the 30th Conference on Empirical Methods in Natural Language Processing, Suzhou, China (EMNLP 2025)*<br/>
     
 - <span style="background-color: #2ca02c; color: white; padding: 2px 6px; border-radius: 3px;">health</span> **MADSurv: An Uncertainty-Aware Framework for Multimodal Cancer Survival Analysis**<br/>
     <u>Enshi Zhang</u>, Varun Sai Raigir, Christian Poellabauer, Adrian Kohut, John Michael Templeton, Ananda Mondal, Lexi Weintraub<br/>
-    *ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB) 2025*<br/>
+    *ACM Conference on Bioinformatics, Computational Biology, and Health Informatics (ACM-BCB 2025)*<br/>
     
 ## 2024
 - <span class="label" style="background-color: #2ca02c; color: white; padding: 2px 6px; border-radius: 3px;">health</span> <span class="label" style="background-color: #ff7f0e; color: white; padding: 2px 6px; border-radius: 3px;">hci</span> **Participant Engagement and Data Quality: Lessons Learned from a Mental Wellness Crowdsensing Study**<br/>
