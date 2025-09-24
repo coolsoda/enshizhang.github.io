@@ -58,6 +58,7 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 
 # Teaching
 
+- <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of Database Management (COT4710)</span> <span style="flex:  0 0 auto"><i>FIU, Summer 2025</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of Discrete Mathematics (COT3100)</span> <span style="flex:  0 0 auto"><i>FIU, Spring 2024</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">TA of Data Structure (COP3337)</span> <span style="flex:  0 0 auto"><i>FIU, Spring 2022</i></span></p>
 - <p style="display: flex; flex-direction: row; justify-content: space-between; margin: 0 0 0.5em;"><span style="flex: 0 0 auto">Instructor of Physics</span> <span style="flex:  0 0 auto"><i>Kennedy Elementary School, Fall 2013</i></span></p>
