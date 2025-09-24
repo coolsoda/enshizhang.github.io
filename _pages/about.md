@@ -79,8 +79,9 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 
 # Service
 
-- Reviewer for journals: IEEE IoT, IEEE Sensors, ACM Computing Surveys
+- Reviewer for journals: IEEE IoT, IEEE Sensors, ACM Computing Surveys, IEEE Transactions on Affective Computing
 - Reviewer for conferences: ACM-BCB, ISMAR, ICIS, ICWSM, CHI, ICASSP, ACM MM, ICLR
+- Mentor for Capstone and REU programs at FIU: Spring 2023, Summer 2024, Fall 2024, Spring 2025, Summer 2025, Fall 2025
 
 
 # Hobbies
