@@ -66,16 +66,24 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 # Honors
 
 - <p style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 0.5em;">
-  <span style="flex: 0 0 auto; margin-right: 10px;">Best Presentation Award</span> 
+  <span style="flex: 0 0 auto; margin-right: 10px;">Student and Young Professional Award</span> 
   <span style="flex: 1 0 auto; text-align: left;">
-    <i><a href="https://ibtec.aut.ac.nz/events/speech-analysis-for-neurodegenerative-diseases-and-brain-injuries">AUT Workshop on Speech Analysis for Neurodegenerative Diseases and Brain Injuries 2024</a></i>
+    <i><a href="https://acm-bcb.org/index.php">ACM-BCB 2025</a></i>
   </span>
-  
+
 - <p style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 0.5em;">
   <span style="flex: 0 0 auto; margin-right: 10px;">Speech Emotion Challenge Winner</span> 
   <span style="flex: 1 0 auto; text-align: left;">
     <i><a href="https://github.com/YuanGongND/llm_speech_emotion_challenge?tab=readme-ov-file">IEEE SLT 2024 Challenge: LLM-Based Post ASR Speech Emotion Challenge</a></i>
   </span>
+
+- <p style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 0.5em;">
+  <span style="flex: 0 0 auto; margin-right: 10px;">Best Presentation Award</span> 
+  <span style="flex: 1 0 auto; text-align: left;">
+    <i><a href="https://ibtec.aut.ac.nz/events/speech-analysis-for-neurodegenerative-diseases-and-brain-injuries">AUT Workshop on Speech Analysis for Neurodegenerative Diseases and Brain Injuries 2024</a></i>
+  </span>
+  
+
 
 
 # Service
