@@ -16,7 +16,7 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 
 # Publications
 ## 2025
-- <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">audio</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **Mitigating Interviewer Bias in Multimodal Depression Detection: An Approach with Adversarial Learning and Contextual Positional Encoding**<br/>
+- <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">speech</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **Mitigating Interviewer Bias in Multimodal Depression Detection: An Approach with Adversarial Learning and Contextual Positional Encoding**<br/>
     <u>Enshi Zhang</u>, Christian Poellabauer<br/>
     *Proceedings of the 30th Conference on Empirical Methods in Natural Language Processing, Suzhou, China, November 2025 (EMNLP 2025)*<br/>
     
@@ -30,17 +30,17 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
     *Proceedings of the 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing, Bergen, Norway, October 2025 (CSCW 2025)*<br/>
     [ [paper](https://dl.acm.org/doi/abs/10.1145/3711043?casa_token=isWgwLkC2LkAAAAA:7EnGgMHdHMl1tOV4jeh7u00Qb2AegNKO2SZNaWyLz00SaCC_VevsDhlxA8OsSWP55GgMsYDpvdM7) ]
 
-- <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">audio</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **Contextual Speech Emotion Recognition with Large Language Models and ASR-Based Transcriptions**<br/>
+- <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">speech</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **Contextual Speech Emotion Recognition with Large Language Models and ASR-Based Transcriptions**<br/>
     <u>Enshi Zhang</u>, Christian Poellabauer<br/>
     *Audio Imagination Workshop on AI-Driven Speech, Music, and Sound Generation, Vancouver, Canada, December 2024 (NeurIPS 2024)*<br/>
     [ [paper](https://openreview.net/forum?id=lyNDmWJhly) | [code](https://github.com/coolsoda/SER_nips) ]
 
-- <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">audio</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **Improving Speech-based Emotion Recognition with Contextual Utterance Analysis and LLMs**<br/>
+- <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">speech</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **Improving Speech-based Emotion Recognition with Contextual Utterance Analysis and LLMs**<br/>
     <u>Enshi Zhang</u>, Christian Poellabauer<br/>
     *IEEE Spoken Language Technology Workshop, Macao, China, December 2024 (SLT 2024)* (<small style="color:red;">Speech Emotion Recognition Challenge Winner</small>)<br/>
     [ [paper](https://arxiv.org/abs/2410.20334) | [code](https://github.com/coolsoda/SLT2024_SER) ]
   
-- <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">audio</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **The MERSA Dataset and a Transformer-Based Approach for Speech Emotion Recognition**<br/>
+- <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">speech</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **The MERSA Dataset and a Transformer-Based Approach for Speech Emotion Recognition**<br/>
     <u>Enshi Zhang</u>, Rafael Trujillo, Christian Poellabauer<br/>
     *Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics, Bangkok, Thailand, August 2024 (ACL 2024)*<br/>
     [ [paper](https://aclanthology.org/2024.acl-long.752/) | [code](https://github.com/FIU-MOSAIC/MERSA_SER) ]
