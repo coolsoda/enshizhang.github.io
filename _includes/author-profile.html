@@ -76,11 +76,12 @@
         
       {% if author.cv %}
         <li>
-            <a href="{{ author.cv }}">
-                <i class="fa fa-fw fa-file-pdf-o" aria-hidden="true"></i>CV
+            <a href="{{ site.url }}{{ site.baseurl }}/{{ author.cv }}">
+        <i class="fa fa-fw fa-file-pdf-o" aria-hidden="true"></i>CV
             </a>
         </li>
       {% endif %}
+
  
       {% if author.kaggle %}
         <li><a href="https://kaggle.com/{{ author.kaggle }}"><i class="fab fa-fw fa-kaggle icon-pad-right" aria-hidden="true"></i>Kaggle</a></li>

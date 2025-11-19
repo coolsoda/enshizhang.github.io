@@ -12,8 +12,13 @@ title                    : "Enshi Zhang"
 title_separator          : "-"
 name                     : &name "Enshi Zhang"
 description              : &description "personal description"
-url                      : https://coolsoda.github.io/enshizhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+#url                      : https://coolsoda.github.io/enshizhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+#baseurl                  : "" # the subpath of your site, e.g. "/blog"
+
+url    : "https://coolsoda.github.io"
+baseurl: "/enshizhang.github.io"
+
+
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -29,7 +34,7 @@ author:
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "ezhan004@fiu.edu"
-  cv               : "/files/Enshi_Zhang_CV.pdf"
+  cv               : "files/Enshi_Zhang_CV.pdf"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
