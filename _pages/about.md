@@ -19,16 +19,19 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 - <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">speech</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **Mitigating Interviewer Bias in Multimodal Depression Detection: An Approach with Adversarial Learning and Contextual Positional Encoding**<br/>
     <u>Enshi Zhang</u>, Christian Poellabauer<br/>
     *Proceedings of the 30th Conference on Empirical Methods in Natural Language Processing, Suzhou, China, November 2025 (EMNLP 2025)*<br/>
+    [ [paper](https://aclanthology.org/2025.findings-emnlp.650/) | [code](https://github.com/coolsoda/e-dep) ]
     
 - <span style="background-color: #2ca02c; color: white; padding: 2px 6px; border-radius: 3px;">health</span> **MADSurv: An Uncertainty-Aware Framework for Multimodal Cancer Survival Analysis**<br/>
     <u>Enshi Zhang</u>, Varun Sai Raigir, Christian Poellabauer, Adrian Kohut, John Michael Templeton, Ananda Mondal, Lexi Weintraub<br/>
     *Proceedings of the 18th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, Philadelphia, USA, October 2025 (ACM-BCB 2025)*<br/>
+    [ [paper](https://dl.acm.org/doi/abs/10.1145/3765612.3767227) | [code](https://github.com/coolsoda/Cancer_survival) ]
+    
     
 ## 2024
 - <span class="label" style="background-color: #2ca02c; color: white; padding: 2px 6px; border-radius: 3px;">health</span> <span class="label" style="background-color: #ff7f0e; color: white; padding: 2px 6px; border-radius: 3px;">hci</span> **Participant Engagement and Data Quality: Lessons Learned from a Mental Wellness Crowdsensing Study**<br/>
     <u>Enshi Zhang</u>, Rafael Trujillo, Christian Poellabauer<br/>
     *Proceedings of the 28th ACM SIGCHI Conference on Computer-Supported Cooperative Work & Social Computing, Bergen, Norway, October 2025 (CSCW 2025)*<br/>
-    [ [paper](https://dl.acm.org/doi/abs/10.1145/3711043?casa_token=isWgwLkC2LkAAAAA:7EnGgMHdHMl1tOV4jeh7u00Qb2AegNKO2SZNaWyLz00SaCC_VevsDhlxA8OsSWP55GgMsYDpvdM7) ]
+    [ [paper](https://dl.acm.org/doi/abs/10.1145/3711043?casa_token=isWgwLkC2LkAAAAA:7EnGgMHdHMl1tOV4jeh7u00Qb2AegNKO2SZNaWyLz00SaCC_VevsDhlxA8OsSWP55GgMsYDpvdM7) | [code](https://github.com/coolsoda/SER_nips) ]
 
 - <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">speech</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **Contextual Speech Emotion Recognition with Large Language Models and ASR-Based Transcriptions**<br/>
     <u>Enshi Zhang</u>, Christian Poellabauer<br/>
