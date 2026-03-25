@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 # Bio
+<small>Last updated: 03/24/2026</small>
 
 I am a final-year Ph.D. candidate at [Florida International University](https://www.fiu.edu/), where I am advised by  Professor [Christian Poellabauer](https://users.cs.fiu.edu/~cpoellab/). My research interests include machine learning, natural language processing, and speech processing, particularly in how these fields can be applied to healthcare applications.
 
@@ -69,15 +70,21 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 # Honors
 
 - <p style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 0.5em;">
+  <span style="flex: 0 0 auto; margin-right: 10px;">Dissertation Fellowship</span> 
+  <span style="flex: 1 0 auto; text-align: left;">
+    <i><a href="https://gradschool.fiu.edu/students/funding/fellowships/">Florida International University 2026</a></i>
+  </span>
+  
+- <p style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 0.5em;">
   <span style="flex: 0 0 auto; margin-right: 10px;">Student and Young Professional Award</span> 
   <span style="flex: 1 0 auto; text-align: left;">
-    <i><a href="https://acm-bcb.org/index.php">ACM-BCB 2025</a></i>
+    <i><a href="https://acm-bcb.org/index.php">ACM-BCB Conference 2025</a></i>
   </span>
 
 - <p style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 0.5em;">
   <span style="flex: 0 0 auto; margin-right: 10px;">Speech Emotion Challenge Winner</span> 
   <span style="flex: 1 0 auto; text-align: left;">
-    <i><a href="https://github.com/YuanGongND/llm_speech_emotion_challenge?tab=readme-ov-file">IEEE SLT 2024 Challenge: LLM-Based Post ASR Speech Emotion Challenge</a></i>
+    <i><a href="https://github.com/YuanGongND/llm_speech_emotion_challenge?tab=readme-ov-file">IEEE SLT Challenge: LLM-Based Post ASR Speech Emotion Challenge 2024</a></i>
   </span>
 
 - <p style="display: flex; justify-content: space-between; align-items: center; margin: 0 0 0.5em;">
@@ -91,8 +98,8 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
 
 # Service
 
-- Reviewer for journals: IEEE IoT, IEEE Sensors, ACM Computing Surveys, IEEE Transactions on Affective Computing
-- Reviewer for conferences: ACM-BCB, ISMAR, ICIS, ICWSM, CHI, ICASSP, ACM MM, ICLR
+- Reviewer for journals: IEEE IoT, IEEE Sensors, ACM Computing Surveys, IEEE Transactions on Affective Computing, IEEE Transactions on Wireless Communications
+- Reviewer for conferences: ACM-BCB, ISMAR, ICIS, ICWSM, CHI, ICASSP, ACM MM, ICLR, NeurIPS
 - Mentor for Capstone and REU programs at FIU: Spring 2023, Summer 2024, Fall 2024, Spring 2025, Summer 2025, Fall 2025
 
 
