@@ -27,6 +27,11 @@ Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics f
     *Proceedings of the 18th ACM Conference on Bioinformatics, Computational Biology, and Health Informatics, Philadelphia, USA, October 2025 (ACM-BCB 2025)*<br/>
     [ [paper](https://dl.acm.org/doi/abs/10.1145/3765612.3767227) | [code](https://github.com/coolsoda/Cancer_survival) ]
     
+- <span style="background-color: #2ca02c; color: white; padding: 2px 6px; border-radius: 3px;">health</span> **A Multi-dilated Convolution Network for Speech Emotion Recognition**<br/>
+    Samaneh Madanian, Olayinka Adeleye, John Michael Templeton, Talen Chen, Christian Poellabauer, <u>Enshi Zhang</u>, Sandra L Schneider<br/>
+    *Scientific Reports*<br/>
+    [ [paper](https://www.nature.com/articles/s41598-025-92640-2) ]
+    
     
 ## 2024
 - <span class="label" style="background-color: #2ca02c; color: white; padding: 2px 6px; border-radius: 3px;">health</span> <span class="label" style="background-color: #ff7f0e; color: white; padding: 2px 6px; border-radius: 3px;">hci</span> **Participant Engagement and Data Quality: Lessons Learned from a Mental Wellness Crowdsensing Study**<br/>
