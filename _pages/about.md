@@ -9,13 +9,20 @@ redirect_from:
 ---
 
 # Bio
-<small>Last updated: 03/24/2026</small>
+<small>Last updated: 09/24/2026</small>
 
 I am a final-year Ph.D. candidate at [Florida International University](https://www.fiu.edu/), where I am advised by  Professor [Christian Poellabauer](https://users.cs.fiu.edu/~cpoellab/). My research interests include machine learning, natural language processing, and speech processing, particularly in how these fields can be applied to healthcare applications.
 
 Before joining FIU in the fall of 2021, I earned my B.S. degree in Mathematics from the University of Kansas in 2017 and my M.S. degree in Business Administration from La Salle University in Pennsylvania in 2018. Following my studies, I worked as a financial analyst for various companies until 2021.
 
 # Publications
+## 2026
+- <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">speech</span> <span class="label" style="background-color: #2ca02c; color: white; padding: 2px 6px; border-radius: 3px;">health</span> **L-Flow: Longitudinal Flow Matching for Progression-Aware Speech Biomarker Modeling**<br/>
+    <u>Enshi Zhang</u>, Christian Poellabauer<br/>
+    *Proceedings of the 40th Annual Conference on Neural Information Processing Systems, Sydney, Australia, December 2026 (NeurIPS 2026)*<br/>
+    
+    
+    
 ## 2025
 - <span class="label" style="background-color: #1f77b4; color: white; padding: 2px 6px; border-radius: 3px;">speech</span> <span class="label" style="background-color: #bcbd22; color: white; padding: 2px 6px; border-radius: 3px;">nlp</span> **Mitigating Interviewer Bias in Multimodal Depression Detection: An Approach with Adversarial Learning and Contextual Positional Encoding**<br/>
     <u>Enshi Zhang</u>, Christian Poellabauer<br/>
